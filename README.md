@@ -5,6 +5,7 @@ Fully Automated end-to-end Training and Deployment of IRIS Classifer using Azure
 2. Understanding of [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/)
 # Getting Started
 1.	Read more about [Azure MLOps](https://azure.microsoft.com/en-in/services/machine-learning/mlops/)
+2.	Youtube: https://www.youtube.com/watch?v=pLd7xF0z5Zs&t=3637s
 
 # Azure DevOps Instructions
 1. Create a Code Repo/Link git repos
